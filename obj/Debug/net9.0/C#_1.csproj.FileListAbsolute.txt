@@ -1,0 +1,15 @@
+/home/caio/github/C#_1/bin/Debug/net9.0/C#_1
+/home/caio/github/C#_1/bin/Debug/net9.0/C#_1.deps.json
+/home/caio/github/C#_1/bin/Debug/net9.0/C#_1.runtimeconfig.json
+/home/caio/github/C#_1/bin/Debug/net9.0/C#_1.dll
+/home/caio/github/C#_1/bin/Debug/net9.0/C#_1.pdb
+/home/caio/github/C#_1/obj/Debug/net9.0/C#_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio/github/C#_1/obj/Debug/net9.0/C#_1.AssemblyInfoInputs.cache
+/home/caio/github/C#_1/obj/Debug/net9.0/C#_1.AssemblyInfo.cs
+/home/caio/github/C#_1/obj/Debug/net9.0/C#_1.csproj.CoreCompileInputs.cache
+/home/caio/github/C#_1/obj/Debug/net9.0/C#_1.sourcelink.json
+/home/caio/github/C#_1/obj/Debug/net9.0/C#_1.dll
+/home/caio/github/C#_1/obj/Debug/net9.0/refint/C#_1.dll
+/home/caio/github/C#_1/obj/Debug/net9.0/C#_1.pdb
+/home/caio/github/C#_1/obj/Debug/net9.0/C#_1.genruntimeconfig.cache
+/home/caio/github/C#_1/obj/Debug/net9.0/ref/C#_1.dll
